@@ -14,7 +14,7 @@
     <h1>这是一个勾八</h1>
 
     <img src="images/handsomeboy.jpg" alt="handsomeboy is my roommate">
-    <p>"this is a handsome boy"</p>
+    <p>"this is a handsome boy"click the picture to change something.</p>
     <p>At Hainan University, you can find him in 19-404</p>
 
     <ul>
